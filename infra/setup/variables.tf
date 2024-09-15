@@ -7,8 +7,8 @@ variable "tf_state_file" {
 }
 
 variable "tf_state_locking_table" {
-    default = "recipe-state-locking"
-} 
+  default = "recipe-state-locking"
+}
 
 variable "project" {
   default = "recipe-app-api"
