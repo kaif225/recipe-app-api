@@ -1,4 +1,4 @@
-# DevOps Deployment Automation with Terraform, AWS and Docker - Starter Codes
+# DevOps Deployment Automation with Terraform, AWS and Docker - Starter Code
 
 This project contains the starter code for our course: [DevOps Deployment Automation with Terraform, AWS and Docker](https://londonapp.dev/c3).
 
